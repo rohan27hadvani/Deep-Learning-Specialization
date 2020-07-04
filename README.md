@@ -1,13 +1,10 @@
-<p align="centre">
-  # Deep Learning Specialization on Coursera
-  
-          
+<p align="center">
+	<h1 align="center"> Deep Learning Specialization on Coursera </h1>
+	<h4 align="center"> Instructor: [Andrew Ng](http://www.andrewng.org/) </h4>
+	
+<h3 align="center"> Project By: Rohan Hadvani </h3>
+	
 </p>
-# Deep Learning Specialization on Coursera
-
-**Master Deep Learning, and Break into AI**
-
-Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Introduction
 
