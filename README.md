@@ -1,3 +1,8 @@
+<p align="centre">
+  # Deep Learning Specialization on Coursera
+  
+          
+</p>
 # Deep Learning Specialization on Coursera
 
 **Master Deep Learning, and Break into AI**
