@@ -3,7 +3,7 @@
 	<h3 align="center"> Project By: Rohan Hadvani </h3>
 	
 </p>
-## Instructor: [Andrew Ng](http://www.andrewng.org/)
+# Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Introduction
 
